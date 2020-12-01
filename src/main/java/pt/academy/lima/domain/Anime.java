@@ -1,4 +1,4 @@
-package pt.academy.domain;
+package pt.academy.lima.domain;
 
 public class Anime {
 

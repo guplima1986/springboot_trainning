@@ -1,4 +1,4 @@
-package pt.academy.util;
+package pt.academy.lima.util;
 
 import org.springframework.stereotype.Component;
 
